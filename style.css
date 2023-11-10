@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color:#131720;
+    font-family: Arial, Helvetica, sans-serif;
+    font-;
+}
+
+h3{
+    color: aliceblue;
+}
+
+.navbar {
+    overflow: hidden;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.navbar a {
+   float: left;
+   display: block;
+   color: aliceblue;
+   padding: 10px;
+   text-transform: uppercase;
+   text-decoration: none;
+   text-align: center;
+   font-size: xx-large;
+}
+
+.navbar .search-container{
+    float: right;
+    padding: 10px;
+}
+
+form{
+    background-color: #2b3959
+    ;
+    width: 300px;
+    height: 43px;
+    border-radius: 10px;
+    display: flex;
+}
+
+input{
+    all:unset;
+    font: 15px system-ui;
+    color: aliceblue;
+    height: 100%;
+    width: 100%;
+    padding: 6px ;
+}
+
+.thumbnail{
+    height: 300px;
+    width :250px;
+    border-radius: 20px; 
+    padding: 10px
+    
+}
+.column{
+    float: left;
+    padding: 10px;
+    text-align: center;
+}
+.card{
+    background-color: #2b3959;
+    border-radius: 10px;
+    padding: 10px 10px;
+
+
+}
